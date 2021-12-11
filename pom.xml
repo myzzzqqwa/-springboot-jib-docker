@@ -44,7 +44,7 @@
                     <to>
                         <!--<image>registry.cn-hangzhou.aliyuncs.com/m65536/jibtest</image>-->
                         <!--目标镜像registry地址，为了方便测试，你需要换成自己的地址，如果你的网络不好，可以选用国内加速器，比如阿里云的-->
-                        <image>registry.hub.docker.com/gaohanghang/springboot-jib-docker</image>
+                        <image>harbor.helm-harbor.svc.cluster.local/yqtest/springboot-jib-docker</image>
                     </to>
                 </configuration>
                 <executions>
